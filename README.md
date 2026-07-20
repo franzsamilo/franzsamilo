@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Animated SVG Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1611,50:2a2318,100:1a1611&height=200&section=header&text=FRANZ.K&fontSize=60&fontColor=c9a96e&fontAlignY=35&desc=The%20Systemic%20Architect&descSize=16&descColor=8b8068&descAlignY=55&animation=fadeIn" />
+<img width="100%" alt="Franz Eliezer Samilo — Full-Stack Design Engineer building agentic AI systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1611,50:2a2318,100:1a1611&height=200&section=header&text=FRANZ.K&fontSize=60&fontColor=c9a96e&fontAlignY=35&desc=The%20Systemic%20Architect&descSize=16&descColor=8b8068&descAlignY=55&animation=fadeIn" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3000&pause=1500&color=C9A96E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=From+Absurdity+to+Architecture;I+start+where+the+logic+breaks.+I+build+until+it+holds.;Every+system+is+a+proof.+Every+commit%2C+an+act+of+revolt." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3000&pause=1500&color=C9A96E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=From+Absurdity+to+Architecture;I+start+where+the+logic+breaks.+I+build+until+it+holds.;Every+system+is+a+proof.+Every+commit%2C+an+act+of+revolt." alt="From Absurdity to Architecture — I start where the logic breaks. I build until it holds." />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/franz.k.dev-1a1611?style=for-the-badge&logo=vercel&logoColor=c9a96e)](https://www.franz-k.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franz-eliezer-samilo-708703276/)
-[![Email](https://img.shields.io/badge/franz@franz.k.dev-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:franz@franz.k.dev)
+[![Portfolio: franz-k.dev](https://img.shields.io/badge/franz--k.dev-1a1611?style=for-the-badge&logo=vercel&logoColor=c9a96e)](https://www.franz-k.dev/)
+[![LinkedIn: Franz Eliezer Samilo](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franz-eliezer-samilo-708703276/)
+[![Email: franzsamilo@gmail.com](https://img.shields.io/badge/franzsamilo@gmail.com-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:franzsamilo@gmail.com)
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 ### The Manuscript
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=franzsamilo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=8b949e&ring_color=c9a96e&include_all_commits=true&count_private=true" />
+<img align="right" width="320" alt="Franz Eliezer Samilo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=franzsamilo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=8b949e&ring_color=c9a96e&include_all_commits=true&count_private=true" />
 
 I'm **Franz Eliezer Samilo** — a full-stack design engineer from the Philippines who builds AI systems, real-time platforms, and production infrastructure for clients across the US, Europe, and Southeast Asia.
 
@@ -81,6 +81,8 @@ Most of what I know, I learned by shipping production systems for international 
 </tr>
 </table>
 
+<sub>Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Node.js · Python · PostgreSQL · Prisma · Supabase · Vercel · LLM orchestration · agentic workflows · multi-agent systems · tool chains · GraphRAG · GoHighLevel automation</sub>
+
 <br/>
 
 ---
@@ -126,10 +128,10 @@ Agentic workflows for everyone, from scratch. Building production AI agent syste
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=franzsamilo&hide_border=true&background=0d1117&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e&sideLabels=8b949e&currStreakNum=c9a96e&sideNums=8b949e&dates=8b949e&stroke=1a1611" />
+<img width="49%" alt="Franz Eliezer Samilo's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=franzsamilo&hide_border=true&background=0d1117&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e&sideLabels=8b949e&currStreakNum=c9a96e&sideNums=8b949e&dates=8b949e&stroke=1a1611" />
 
 <!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzsamilo&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a96e&text_color=8b949e&langs_count=8" />
+<img width="49%" alt="Franz Eliezer Samilo's most-used languages: TypeScript, JavaScript, Python" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzsamilo&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a96e&text_color=8b949e&langs_count=8" />
 
 </div>
 
@@ -138,7 +140,7 @@ Agentic workflows for everyone, from scratch. Building production AI agent syste
 <div align="center">
 
 <!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=franzsamilo&bg_color=0d1117&color=8b949e&line=c9a96e&point=c9a96e&area=true&area_color=c9a96e&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="98%" alt="Franz Eliezer Samilo's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=franzsamilo&bg_color=0d1117&color=8b949e&line=c9a96e&point=c9a96e&area=true&area_color=c9a96e&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -162,7 +164,7 @@ Agentic workflows for everyone, from scratch. Building production AI agent syste
 <!-- GitHub Trophies -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=franzsamilo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
+<img alt="Franz Eliezer Samilo's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=franzsamilo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
 
 </div>
 
@@ -188,7 +190,7 @@ Agentic workflows for everyone, from scratch. Building production AI agent syste
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/See_the_full_portfolio-franz.k.dev-c9a96e?style=for-the-badge)](https://franz.k.dev)
+[![See the full portfolio at franz-k.dev](https://img.shields.io/badge/See_the_full_portfolio-franz--k.dev-c9a96e?style=for-the-badge)](https://www.franz-k.dev/)
 
 </div>
 

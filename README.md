@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/franz--k.dev-1a1611?style=for-the-badge&logo=vercel&logoColor=c9a96e)](https://www.franz-k.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franz-eliezer-samilo-708703276/)
-[![Email](https://img.shields.io/badge/franzsamilo@gmail.com-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:franzsamilo@gmail.com)
+[![Email](https://img.shields.io/badge/sssamilofranz@gmail.com-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:sssamilofranz@gmail.com)
 
 <br/>
 

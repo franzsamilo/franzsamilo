@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/franz.k.dev-1a1611?style=for-the-badge&logo=vercel&logoColor=c9a96e)](https://www.franz-k.dev/)
+[![Portfolio](https://img.shields.io/badge/franz--k.dev-1a1611?style=for-the-badge&logo=vercel&logoColor=c9a96e)](https://www.franz-k.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franz-eliezer-samilo-708703276/)
-[![Email](https://img.shields.io/badge/franz@franz.k.dev-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:franz@franz.k.dev)
+[![Email](https://img.shields.io/badge/franzsamilo@gmail.com-1a1611?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:franzsamilo@gmail.com)
 
 <br/>
 
@@ -29,13 +29,32 @@
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=franzsamilo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=8b949e&ring_color=c9a96e&include_all_commits=true&count_private=true" />
 
-I'm **Franz Eliezer Samilo** — a full-stack design engineer from the Philippines who builds AI systems, real-time platforms, and production infrastructure for clients across the US, Europe, and Southeast Asia.
+I'm **Franz Eliezer Samilo** — a full-stack design engineer from the Philippines who builds agentic AI, real-time platforms, and production infrastructure for clients across the US, Europe, and Southeast Asia.
+
+**Lead Developer at [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech)** · **Full-stack engineer, agentic AI, at [OZ Tech](https://www.franz-k.dev/experience#oz-tech)** · previously **frontend developer for [Rare.org](https://www.franz-k.dev/work/rare-earthranger)'s EarthRanger dashboard** · BS Software Engineering, Central Philippine University
 
 From Sibalom, Antique — no local mentors, no startup ecosystem. Just internet access and the conviction that systems should work better than they do.
 
-Most of what I know, I learned by shipping production systems for international clients — conservation intelligence for **Rare.org**, adaptive AI tutoring for **Mentoria** in Greece, swarm simulations that spawn autonomous agents with their own memory and personality.
+Most of what I know, I learned by shipping production systems for international clients — conservation intelligence for **Rare.org**, adaptive AI tutoring for **Mentoria** in Greece, six production apps as Lead Developer at **XzenTech Solutions**, and agent pipelines for **OZ Tech**'s clients.
 
 <br clear="right"/>
+
+---
+
+<br/>
+
+### The Experience
+
+| Role | Where | When |
+|---|---|---|
+| **Lead Developer** — six production web and mobile apps, several with machine learning inside | [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech) | Nov 2025 — present |
+| **Full-Stack Engineer, Agentic AI** — LLM orchestration, MCP servers, agent pipelines, GoHighLevel automation | [OZ Tech (unwiz.ai)](https://www.franz-k.dev/experience#oz-tech) | Apr 2025 — present |
+| **Frontend Developer** — the EarthRanger conservation-analytics dashboard, 750+ sites, 23,000+ animals | [Rare.org](https://www.franz-k.dev/work/rare-earthranger) | May — Aug 2025 |
+| **Full-Stack Developer** — student marketplace, selected for DICT's STEP UP programme | [UniHub](https://www.franz-k.dev/work/unihub) | 2023 — 2024 |
+
+Full history: **[franz-k.dev/experience](https://www.franz-k.dev/experience)**
+
+<br/>
 
 ---
 
@@ -93,14 +112,20 @@ Most of what I know, I learned by shipping production systems for international 
 
 <br/>
 
-**Volume I — [Rare EarthRanger](https://er-rare-dashboard.vercel.app/)**
-Real-time conservation intelligence at planetary scale. Deployed across **750+ sites**, tracking **23,000+ animals** globally for Rare.org. Next.js, TypeScript, GIS mapping, real-time data streams.
+**Volume I — [Rare EarthRanger](https://www.franz-k.dev/work/rare-earthranger)** · [live](https://er-rare-dashboard.vercel.app/)
+Real-time conservation intelligence at planetary scale. I built the frontend for Rare.org's EarthRanger dashboard — deployed across **750+ sites**, tracking **23,000+ animals** globally. Next.js, TypeScript, GIS mapping, real-time data streams.
 
-**Volume II — [Mentoria](https://project-mentoria.vercel.app/)**
+**Volume II — [Mentoria](https://www.franz-k.dev/work/mentoria-ai)** · [live](https://project-mentoria.vercel.app/)
 Where AI becomes the teacher kids actually want. An adaptive AI-powered education platform serving students across the Greek education system. Next.js, TypeScript, LLM integration, agent architecture.
 
-**Volume III — OZ Tech** *(Current)*
+**Volume III — [OZ Tech](https://www.franz-k.dev/work/oz-tech)** *(Current)*
 Agentic workflows for everyone, from scratch. Building production AI agent systems, custom APIs, and workflow automation with GoHighLevel integration.
+
+**Volume IV — XzenTech Solutions** *(Current — Lead Developer)*
+Six production web and mobile apps: [Proxima LMS](https://www.franz-k.dev/work/proxima-lms) · [XZEN Connect](https://www.franz-k.dev/work/xzen-connect) · [XTS Web](https://www.franz-k.dev/work/xts-web) · [RoboGuide](https://www.franz-k.dev/work/roboguide) · [StatSmart](https://www.franz-k.dev/work/statsmart) · [Cartman PH](https://www.franz-k.dev/work/cartman-ph)
+
+**Research — [The Remembrance](https://github.com/franzsamilo/the-remembrance)**
+My thesis: a CompGCN graph neural network that validates knowledge-graph facts before a language model may use them. AUC-ROC 0.985 and MRR 0.958 across 12 seeds; grounding 0.988, faithfulness 0.971.
 
 <br/>
 
@@ -188,7 +213,7 @@ Agentic workflows for everyone, from scratch. Building production AI agent syste
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/See_the_full_portfolio-franz.k.dev-c9a96e?style=for-the-badge)](https://franz.k.dev)
+[![Portfolio](https://img.shields.io/badge/See_the_full_portfolio-franz--k.dev-c9a96e?style=for-the-badge)](https://www.franz-k.dev)
 
 </div>
 

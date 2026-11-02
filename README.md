@@ -31,11 +31,11 @@
 
 I'm **Franz Eliezer Samilo** — a full-stack design engineer from the Philippines who builds agentic AI, real-time platforms, and production infrastructure for clients across the US, Europe, and Southeast Asia.
 
-**Lead Developer at [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech)** · **Full-stack engineer, agentic AI, at [OZ Tech](https://www.franz-k.dev/experience#oz-tech)** · previously **frontend developer for [Rare.org](https://www.franz-k.dev/work/rare-earthranger)'s EarthRanger dashboard** · BS Software Engineering, Central Philippine University
+**Lead Developer at [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech)** · **Full-stack engineer, agentic AI, at [OZ Tech](https://www.franz-k.dev/experience#oz-tech)** · previously **frontend developer for [Rare Philippines](https://www.franz-k.dev/work/rare-earthranger)' EarthRanger dashboard** · BS Software Engineering, Central Philippine University
 
 From Sibalom, Antique — no local mentors, no startup ecosystem. Just internet access and the conviction that systems should work better than they do.
 
-Most of what I know, I learned by shipping production systems for international clients — conservation intelligence for **Rare.org**, adaptive AI tutoring for **Mentoria** in Greece, six production apps as Lead Developer at **XzenTech Solutions**, and agent pipelines for **OZ Tech**'s clients.
+Most of what I know, I learned by shipping production systems for international clients — a conservation dashboard for **Rare Philippines**, an AI mentoring platform for **Mentoria** in Greece, six production apps as Lead Developer at **XzenTech Solutions**, and agent pipelines for **OZ Tech**'s clients.
 
 <br clear="right"/>
 
@@ -49,7 +49,7 @@ Most of what I know, I learned by shipping production systems for international 
 |---|---|---|
 | **Lead Developer** — six production web and mobile apps, several with machine learning inside | [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech) | Nov 2025 — present |
 | **Full-Stack Engineer, Agentic AI** — LLM orchestration, MCP servers, agent pipelines, GoHighLevel automation | [OZ Tech (unwiz.ai)](https://www.franz-k.dev/experience#oz-tech) | Apr 2025 — present |
-| **Frontend Developer** — the EarthRanger conservation-analytics dashboard, 750+ sites, 23,000+ animals | [Rare.org](https://www.franz-k.dev/work/rare-earthranger) | May — Aug 2025 |
+| **Frontend Developer** — Rare Philippines' conservation-analytics dashboard, built on EarthRanger | [Rare.org](https://www.franz-k.dev/work/rare-earthranger) | May — Aug 2025 |
 | **Full-Stack Developer** — student marketplace, selected for DICT's STEP UP programme | [UniHub](https://www.franz-k.dev/work/unihub) | 2023 — 2024 |
 
 Full history: **[franz-k.dev/experience](https://www.franz-k.dev/experience)**
@@ -113,16 +113,16 @@ Full history: **[franz-k.dev/experience](https://www.franz-k.dev/experience)**
 <br/>
 
 **Volume I — [Rare EarthRanger](https://www.franz-k.dev/work/rare-earthranger)** · [live](https://er-rare-dashboard.vercel.app/)
-Real-time conservation intelligence at planetary scale. I built the frontend for Rare.org's EarthRanger dashboard — deployed across **750+ sites**, tracking **23,000+ animals** globally. Next.js, TypeScript, GIS mapping, real-time data streams.
+Conservation telemetry a field team can act on. I built the frontend of Rare Philippines' conservation dashboard on EarthRanger — the wildlife-tracking platform used at 750+ sites: GIS maps and analytics over GPS-collar, camera-trap and patrol telemetry. Next.js, TypeScript, Tableau integration.
 
 **Volume II — [Mentoria](https://www.franz-k.dev/work/mentoria-ai)** · [live](https://project-mentoria.vercel.app/)
-Where AI becomes the teacher kids actually want. An adaptive AI-powered education platform serving students across the Greek education system. Next.js, TypeScript, LLM integration, agent architecture.
+An AI mentor that remembers you, one level deeper each time. A self-discovery journey with one AI mentor — levels that unlock through conversation, and memory across sessions — built for Mentoria.gr. Next.js, TypeScript, LLM agent with tools.
 
 **Volume III — [OZ Tech](https://www.franz-k.dev/work/oz-tech)** *(Current)*
 Agentic workflows for everyone, from scratch. Building production AI agent systems, custom APIs, and workflow automation with GoHighLevel integration.
 
 **Volume IV — XzenTech Solutions** *(Current — Lead Developer)*
-Six production web and mobile apps: [Proxima LMS](https://www.franz-k.dev/work/proxima-lms) · [XZEN Connect](https://www.franz-k.dev/work/xzen-connect) · [XTS Web](https://www.franz-k.dev/work/xts-web) · [RoboGuide](https://www.franz-k.dev/work/roboguide) · [StatSmart](https://www.franz-k.dev/work/statsmart) · [Cartman PH](https://www.franz-k.dev/work/cartman-ph)
+Six production web and mobile apps: [Proxima LMS](https://www.franz-k.dev/work/proxima-lms) · [XZEN Connect](https://www.franz-k.dev/work/xzen-connect) · [XTS Web](https://www.franz-k.dev/work/xts-web) *(archived)* · [RoboGuide](https://www.franz-k.dev/work/roboguide) · [StatSmart](https://www.franz-k.dev/work/statsmart) · [Cartman PH](https://www.franz-k.dev/work/cartman-ph)
 
 **Research — [The Remembrance](https://github.com/franzsamilo/the-remembrance)**
 My thesis: a CompGCN graph neural network that validates knowledge-graph facts before a language model may use them. AUC-ROC 0.985 and MRR 0.958 across 12 seeds; grounding 0.988, faithfulness 0.971.

@@ -29,13 +29,15 @@
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=franzsamilo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=c9a96e&text_color=8b949e&ring_color=c9a96e&include_all_commits=true&count_private=true" />
 
-I'm **Franz Eliezer Samilo** — a full-stack design engineer from the Philippines who builds agentic AI, real-time platforms, and production infrastructure for clients across the US, Europe, and Southeast Asia.
+I'm **Franz Eliezer Samilo** — a software engineer based in Makati City, Philippines, who builds agentic AI, real-time platforms, and production infrastructure, for clients across the US, Europe, and Southeast Asia.
 
-**Lead Developer at [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech)** · **Full-stack engineer, agentic AI, at [OZ Tech](https://www.franz-k.dev/experience#oz-tech)** · previously **frontend developer for [Rare Philippines](https://www.franz-k.dev/work/rare-earthranger)' EarthRanger dashboard** · BS Software Engineering, Central Philippine University
+**Software Engineer at [Parallel Distribution](https://www.franz-k.dev/experience#parallel)** — building the internal AI tools, agents and pipelines behind short-form video and photo ads.
+
+Previously **Lead Developer at [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech)** · **full-stack engineer, agentic AI, at [OZ Tech](https://www.franz-k.dev/experience#oz-tech)** · **frontend developer for [Rare Philippines](https://www.franz-k.dev/work/rare-earthranger)' EarthRanger dashboard** · **lead developer of [NeoPark](https://neopark.vercel.app)**, 5th place at PITCH PH 2025 · BS Software Engineering, Central Philippine University
 
 From Sibalom, Antique — no local mentors, no startup ecosystem. Just internet access and the conviction that systems should work better than they do.
 
-Most of what I know, I learned by shipping production systems for international clients — a conservation dashboard for **Rare Philippines**, an AI mentoring platform for **Mentoria** in Greece, six production apps as Lead Developer at **XzenTech Solutions**, and agent pipelines for **OZ Tech**'s clients.
+Most of what I know, I learned by shipping production systems for real clients — a conservation dashboard for **Rare Philippines**, a PHP rebuild for a US dental practice (**DreamSmile**), an AI mentoring platform for **Mentoria** in Greece, six production apps as Lead Developer at **XzenTech Solutions**, and agent pipelines for **OZ Tech**'s clients.
 
 <br clear="right"/>
 
@@ -47,9 +49,12 @@ Most of what I know, I learned by shipping production systems for international 
 
 | Role | Where | When |
 |---|---|---|
-| **Lead Developer** — six production web and mobile apps, several with machine learning inside | [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech) | Nov 2025 — present |
-| **Full-Stack Engineer, Agentic AI** — LLM orchestration, MCP servers, agent pipelines, GoHighLevel automation | [OZ Tech (unwiz.ai)](https://www.franz-k.dev/experience#oz-tech) | Apr 2025 — present |
+| **Software Engineer** — internal AI tools, agents and pipelines for short-form video and photo ads; TikTok and Meta integrations | [Parallel Distribution](https://www.franz-k.dev/experience#parallel) · Makati City | Nov 2026 — present |
+| **Lead Developer** — six production web and mobile apps, several with machine learning inside | [XzenTech Solutions](https://www.franz-k.dev/experience#xzentech) | Nov 2025 — Sep 2026 |
+| **Full-Stack Engineer, Agentic AI** — LLM orchestration, MCP servers, agent pipelines, GoHighLevel automation | [OZ Tech (unwiz.ai)](https://www.franz-k.dev/experience#oz-tech) | Apr 2025 — Aug 2026 |
+| **Lead Developer** — smart parking with IoT sensors and a live map; 5th place, PITCH PH 2025 | [NeoPark](https://neopark.vercel.app) · DOST-CPU CPUGAD TBI startup | 2025 |
 | **Frontend Developer** — Rare Philippines' conservation-analytics dashboard, built on EarthRanger | [Rare.org](https://www.franz-k.dev/work/rare-earthranger) | May — Aug 2025 |
+| **Business Manager** | Google Developer Groups on Campus (formerly GDSC) — Central Philippine University | 2024 — 2025 |
 | **Full-Stack Developer** — student marketplace, selected for DICT's STEP UP programme | [UniHub](https://www.franz-k.dev/work/unihub) | 2023 — 2024 |
 
 Full history: **[franz-k.dev/experience](https://www.franz-k.dev/experience)**
@@ -112,16 +117,22 @@ Full history: **[franz-k.dev/experience](https://www.franz-k.dev/experience)**
 
 <br/>
 
-**Volume I — [Rare EarthRanger](https://www.franz-k.dev/work/rare-earthranger)** · [live](https://er-rare-dashboard.vercel.app/)
+**Volume I — [DreamSmile](https://www.franz-k.dev/work/dreamsmile)** · [preview](https://dr-burns-design-preview.vercel.app)
+A dental implant practice's site, rebuilt in PHP with its rankings protected. A Next.js prototype for Dr. Jeffrey S. Burns, DDS (Virginia), ported to a custom WordPress block theme — about 7,800 lines of PHP and 50 pages — with Gravity Forms and GoHighLevel lead capture and an SEO-safe migration plan. Built through OZ Tech.
+
+**Volume II — [Rare EarthRanger](https://www.franz-k.dev/work/rare-earthranger)** · [live](https://er-rare-dashboard.vercel.app/)
 Conservation telemetry a field team can act on. I built the frontend of Rare Philippines' conservation dashboard on EarthRanger — the wildlife-tracking platform used at 750+ sites: GIS maps and analytics over GPS-collar, camera-trap and patrol telemetry. Next.js, TypeScript, Tableau integration.
 
-**Volume II — [Mentoria](https://www.franz-k.dev/work/mentoria-ai)** · [live](https://project-mentoria.vercel.app/)
+**Volume III — [Mentoria](https://www.franz-k.dev/work/mentoria-ai)** · [live](https://project-mentoria.vercel.app/)
 An AI mentor that remembers you, one level deeper each time. A self-discovery journey with one AI mentor — levels that unlock through conversation, and memory across sessions — built for Mentoria.gr. Next.js, TypeScript, LLM agent with tools.
 
-**Volume III — [OZ Tech](https://www.franz-k.dev/work/oz-tech)** *(Current)*
-Agentic workflows for everyone, from scratch. Building production AI agent systems, custom APIs, and workflow automation with GoHighLevel integration.
+**Volume IV — [NeoPark](https://neopark.vercel.app)** *(Lead Developer · 5th place, PITCH PH 2025)*
+Smart parking that shows drivers open spaces in real time. IoT sensors feed a live Mapbox map; an admin dashboard places lots and edits their layouts. A student-led startup incubated at DOST-CPU CPUGAD TBI. Next.js, TypeScript, Prisma, PostgreSQL, WebSockets.
 
-**Volume IV — XzenTech Solutions** *(Current — Lead Developer)*
+**Volume V — [OZ Tech](https://www.franz-k.dev/work/oz-tech)** *(Apr 2025 — Aug 2026)*
+Agent pipelines built per client, never from a template: production AI agent systems, custom APIs, and workflow automation with GoHighLevel integration.
+
+**Volume VI — XzenTech Solutions** *(Lead Developer, Nov 2025 — Sep 2026)*
 Six production web and mobile apps: [Proxima LMS](https://www.franz-k.dev/work/proxima-lms) · [XZEN Connect](https://www.franz-k.dev/work/xzen-connect) · [XTS Web](https://www.franz-k.dev/work/xts-web) *(archived)* · [RoboGuide](https://www.franz-k.dev/work/roboguide) · [StatSmart](https://www.franz-k.dev/work/statsmart) · [Cartman PH](https://www.franz-k.dev/work/cartman-ph)
 
 **Research — [The Remembrance](https://github.com/franzsamilo/the-remembrance)**
@@ -209,7 +220,7 @@ My thesis: a CompGCN graph neural network that validates knowledge-graph facts b
 
 <br/>
 
-`Antique, Philippines · UTC+8`
+`Makati City, Philippines · UTC+8`
 
 <br/>
 
